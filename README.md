@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iSukra</h1>
+<h1 align="center">Hi 👋, ISukra</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="left"> <a href="https://twitter.com/isukra_11" target="blank"><img src="https://img.shields.io/twitter/follow/isukra_11?logo=twitter&style=for-the-badge" alt="isukra_11" /></a> </p>
